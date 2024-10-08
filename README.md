@@ -54,15 +54,10 @@
 <h2 align="center">✨ Habilidades Adicionales</h2>
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://devstickers.com/assets/img/pro/y4b0.png" alt="Adobe Illustrator" width="40"/>
-  </a>
   <a href="https://www.adobe.com/products/illustrator.html">
     <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40"/>
   </a>
 </p>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
