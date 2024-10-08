@@ -22,7 +22,9 @@
 
 - 💬 Siempre estoy disponible para ayudar y aprender juntos.
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
+</div>
 
 <h2 align="center">🛠️ | Lenguajes, Frameworks y Herramientas</h2>
 
@@ -53,7 +55,10 @@
     </tr>
 </table>
 
-<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
+</div>
 
 <h2 align="center">✨ Habilidades Adicionales</h2>
 
@@ -63,8 +68,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
-</div>
+
 
 _Last Edited on: 8/10/2024_
