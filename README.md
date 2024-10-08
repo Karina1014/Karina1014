@@ -14,9 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I’m Ifeanyi Nneji <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+## Hola, Soy Karina Simabaña <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
 
+![Karina Simbaña](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+
+<p align="center">
+A software engineer loves building tools, design, typography and Vocaloid.<br>
+<br>
+<a href="https://1a23.com">Portfolio Site</a>
+ · <a href="https://blog.1a23.com">Blog</a>
+ · <a href="https://twitter.com/blueset">Twitter</a>
+<br>
+<br>
+<br>
+<br>
+</p>
+
+-----
+Credits: [Eana Hufwe](https://github.com/blueset)
+
+Last Edited on: 25/11/2020
 ----
 
 <p align="center">
