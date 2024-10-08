@@ -40,45 +40,25 @@
   </a>
 </p>
 
-##
-
-### 💬 Find me [elsewhere on the internet](https://linktr.ee/choubari).
-
-##
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
 <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true"/>
 
-<!--
-- :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=choubari)
--->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
-
-Credit: [Kawtar CHOUBARI](https://github.com/choubari)
-
-Last edited on: 23/02/2021
------
-Credits: [Eana Hufwe](https://github.com/blueset)
-
-Last Edited on: 25/11/2020
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
------
-Credits: [Nneji123](https://github.com/Nneji123)
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,opencv,java,spring"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,js"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,/></td>
+    </tr>
+    <tr>
 
 Last Edited on: 8/10/2024
