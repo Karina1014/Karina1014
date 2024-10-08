@@ -10,13 +10,19 @@
   </a>
 </div>
 
+
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="margin-left: 20px;"/>
 
 <samp>
-<p align="justify" style="text-indent:40px;"> 
+<p align="justify" style="text-indent: 40px;"> 
 🚀✨¡Hola! Soy <b>Karina Simbaña</b>, estudiante apasionada por el desarrollo web y la tecnología, siempre en busca de nuevas oportunidades para crecer. Con gran entusiasmo, me dedico a aprender y aplicar mis habilidades en proyectos que me desafíen. Soy una persona curiosa, creativa y comprometida con lo que hago. Lista para nuevas aventuras y lista para hacer del mundo un lugar mejor a través de la tecnología. 🚀✨ 
 </p>
 </samp>
+
+- 🌱 Actualmente estoy aprendiendo <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+- 💬 Siempre estoy disponible para ayudar y aprender juntos..
+
 
 
 
