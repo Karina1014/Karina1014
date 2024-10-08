@@ -10,8 +10,7 @@
   </a>
 </div>
 
-<!-- Lottie animation in iframe -->
-<iframe src="https://embed.lottiefiles.com/animation/11213008" width="300" height="300" style="border: none;" align="right"></iframe>
+<img alt="karina" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
 
 <samp>
 <p align="justify" style="text-indent:40px;"> 
