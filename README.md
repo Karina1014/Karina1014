@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img alt="karina" align="right" src="[https://devstickers.com/assets/img/pro/wq5o.png](https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif)" width="100">
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <samp>
 <p align="justify" style="text-indent:40px;"> 
