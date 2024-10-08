@@ -42,23 +42,33 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true"/>
-
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,opencv,java,spring"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,python,opencv,java,net,spring"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,js"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+    </tr>
+</table>
+<br>
 
 Last Edited on: 8/10/2024
