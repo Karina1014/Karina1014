@@ -1,8 +1,9 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Karina+Simba%C3%B1a+%F0%9F%91%8B;Apasionada+por+la+tecnolog%C3%ADa+%F0%9F%92%BB+y+el+dise%C3%B1o+%F0%9F%96%A4;Siempre+lista+para+aprender+nuevas+herramientas+%F0%9F%92%AA)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0791BE&center=true&vCenter=true&width=500&gradient=true&colors=0791BE,87CEEB&lines=Hola%2C+soy+Karina+Simba%C3%B1a+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
