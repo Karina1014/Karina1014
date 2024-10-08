@@ -10,39 +10,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### ** Tecnologías:**
-
-<p float="left">
- <a href="https://www.python.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
- </a>
- <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
- </a>
- <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
- <a href="https://reactjs.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
-  </a>
- <a href="https://git-scm.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
- <a href="https://code.visualstudio.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
-
- <a href="https://www.adobe.com/products/illustrator.html">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
-  </a>
-</p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2>🛠️ | Languajes, Frameworks y Herramientas </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -70,5 +38,17 @@
     </tr>
 </table>
 <br>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### ** Habilidades:**
+
+<p float="left">
+ <a href="https://www.python.org/">
+ <a href="https://www.adobe.com/products/illustrator.html">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
+  </a>
+</p>
+
 
 Last Edited on: 8/10/2024
