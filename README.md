@@ -22,13 +22,14 @@
 
 - 💬 Siempre estoy disponible para ayudar y aprender.
 
-<div align="center" style="margin: 20px 0;"> <!-- Separador -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
+<div align="center" style="margin: 0;"> <!-- Separador -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif" style="border: none; display: block;">
 </div>
 
 <h2 align="left">🛠️ | Lenguajes, Frameworks y Herramientas:</h2>
-<div align="center" style="margin: 20px 0;"> <!-- Separador -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
+
+<div align="center" style="margin: 0;"> <!-- Separador -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif" style="border: none; display: block;">
 </div>
 
 <table align="center">
@@ -58,8 +59,5 @@
     </tr>
 </table>
 
-<div align="center" style="margin: 20px 0;"> <!-- Separador -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
-</div>
 
-_Last Edited on: 8/10/2024_
+_Última edición el: 8/10/2024_
