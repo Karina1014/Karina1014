@@ -28,10 +28,6 @@
 
 <h2 align="left">🛠️ | Lenguajes, Frameworks y Herramientas:</h2>
 
-<div align="center" style="margin: 0;"> <!-- Separador -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif" style="border: none; display: block;">
-</div>
-
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -50,12 +46,12 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de versiones:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=illustrator,photoshop"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras herramientas:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=illustrator"/></td>
     </tr>
 </table>
 
