@@ -18,11 +18,11 @@
 
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" style="margin-left: 20px;"/>
 
-- 🌱 Actualmente estoy aprendiendo <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+- 🌱 Actualmente estoy aprendiendo: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
-- 💬 Siempre estoy disponible para ayudar y aprender juntos.
+- 💬 Siempre estoy disponible para ayudar y aprender.
 
-<div align="center">
+<div align="center" style="margin: 20px 0;"> <!-- Separador -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </div>
 
@@ -55,8 +55,7 @@
     </tr>
 </table>
 
-
-<div align="center">
+<div align="center" style="margin: 20px 0;"> <!-- Separador -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </div>
 
@@ -67,7 +66,5 @@
     <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40"/>
   </a>
 </p>
-
-
 
 _Last Edited on: 8/10/2024_
