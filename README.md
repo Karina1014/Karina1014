@@ -26,7 +26,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </div>
 
-<h2 align="center">🛠️ | Lenguajes, Frameworks y Herramientas</h2>
+<h2 align="left">🛠️ | Lenguajes, Frameworks y Herramientas:</h2>
 
 <table align="center">
     <tr>
@@ -60,7 +60,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </div>
 
-<h2 align="center">✨ Habilidades Adicionales</h2>
+<h2 align="left">✨ Habilidades Adicionales:</h2>
 
 <p align="center">
   <a href="https://www.adobe.com/products/illustrator.html">
